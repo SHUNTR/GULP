@@ -1,7 +1,7 @@
 {
-    "name": "ГалеМир",
+    "name": "GULP",
     "version": "1.0.0",
-    "description": "Экзаменционный проект",
+    "description": "First Gulp",
     "author": "SHUNTR",
     "devDependencies": {
         "browser-sync": "^2.27.11",
